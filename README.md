@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @abishemaa
 - 👀 I’m interested in Learning new things
-- 🌱 I’m currently learning programming and coding through CS50
-- 💞️ I’m looking to collaborate on practical coding skills and projects
+- 🌱 I’m currently learning coding through CS50
+- 💞️ I’m looking to collaborate on practical coding tasks and projects
 - 📫 How to reach me? abishemaj2@gmail.com
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: We can do it 👍.
